@@ -4,6 +4,7 @@
 //
  Implement matrix multiplication using C/C++ in HLS and then optimize the hardware implementation. First, I will create a basic matrix multiplier as the baseline and verify its correctness using C simulation and co-simulation. Then I will apply different HLS optimization techniques such as pipelining, array partitioning and loop unrolling. I will compare the different implementations based on latency, initiation interval, timing and FPGA resource utilization. Finally, I want to identify which implementation gives the best trade-off between performance and hardware resources.
 //trip count how many times my loop execute
+//Throughput means how much work a system can complete in a given amount of time.
 
 The practical purpose of accelerating matrix multiplication using High-Level Synthesis (HLS) is to bridge the gap between heavy mathematical workloads and extreme hardware efficiency.
 //
