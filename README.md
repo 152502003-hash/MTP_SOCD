@@ -1,4 +1,5 @@
 # MTP_SOCD
+//...................Design and Optimization of a Matrix Multiplication Accelerator Using C/C++ HLS..............//
 //
 The practical purpose of accelerating matrix multiplication using High-Level Synthesis (HLS) is to bridge the gap between heavy mathematical workloads and extreme hardware efficiency.
 //
