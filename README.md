@@ -13,3 +13,7 @@ in MTP_2 ,By using Array_partition Initiation Interval convert from II=2 to II=1
 other things are not optimized.
 //
 in MTP_3 ,trying to use  Loop-unrolling,
+//The available timing budget after uncertainty is:    10−2.70=7.30ns
+//estimated time is the critical time 7.82ns so slcak time 7.30-7.82ns=-.52ns
+
+
